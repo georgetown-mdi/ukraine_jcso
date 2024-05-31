@@ -8,12 +8,10 @@ Our preprocessed organic data is avialable as `proc_data/ukraine_X.csv`.
 
 ## Installation
 This analysis was conducted using Python 3.7.6. 
-The `requirements.txt file` contains the modules used for this project, and can be installed via 
-    
-    ```shell
-    pip install -r requirements.txt
+The `requirements.txt file` contains the modules used for this project, and can be installed via    
     ```
-    
+    pip install -r requirements.txt
+    ```    
 in this directory.
 
 Some scripts assume that the root directory of this repository is the working directory.
