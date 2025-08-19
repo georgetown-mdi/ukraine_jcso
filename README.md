@@ -1,5 +1,5 @@
 ## "The Digital Trail of Ukraine’s 2022 Refugee Exodus"
-This repository contains code accompanying the article "The Digital Trail of Ukraine’s 2022 Refugee Exodus." 
+This repository accompanies the [Journal of Computational Social Science article "The Digital Trail of Ukraine’s 2022 Refugee Exodus."](https://link.springer.com/article/10.1007/s42001-024-00304-4) 
 
 ## This Repository
 Regretfully, we are not able to share the migration data. But we would still like to share the code implementing our methodology. Consequently, we generate artificial data in the file `python/synthetic_data.py` which is stored in the file `proc_data/syn_y.csv`. 
